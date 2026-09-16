@@ -52,16 +52,7 @@ Currently open to **strategic roles** and **high-impact freelance** work.
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RubelBiswasDH&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Rubel Biswas GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelBiswasDH&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
-</p>
-
----
-
-## Let's build something exceptional
+## Connect with Me
 
 I'm currently open to strategic roles and high-impact freelance projects.
 
