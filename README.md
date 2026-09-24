@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rubel Biswas</h1>
 
 <p align="center">
-  <strong>Full-Stack Software Engineer</strong> · TypeScript · Next.js · NestJS
+  <strong>Full-Stack Software Engineer</strong> · TypeScript · Next.js · NestJS · Python
 </p>
 
 <p align="center">
