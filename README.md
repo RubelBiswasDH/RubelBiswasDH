@@ -44,9 +44,9 @@ Currently open to **strategic roles** and **high-impact freelance** work.
 | Area | Focus |
 | --- | --- |
 | **Full-Stack Systems** | Schema design through pixel-perfect UI |
-| **Cloud Deployment** | Containerized apps, serverless functions, Vercel & similar platforms |
+| **Cloud Deployment** | DigitalOcean, Render, Vercel & similar platforms |
 | **AI Integration** | LLMs and product workflows with OpenAI, LangChain, and Ollama |
-| **Optimization** | Load times, query performance, and SEO |
+| **Optimization** | Load times, query performance, and Core Web Vitals |
 | **CI/CD** | Automated test and deploy pipelines for reliable releases |
 
 ---
