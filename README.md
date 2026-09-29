@@ -43,7 +43,6 @@ Currently open to **strategic roles** and **high-impact freelance** work.
 
 | Area | Focus |
 | --- | --- |
-| **Clean Architecture** | DDD, SOLID, and design patterns for long-term maintainability |
 | **Full-Stack Systems** | Schema design through pixel-perfect UI |
 | **Cloud Deployment** | Containerized apps, serverless functions, Vercel & similar platforms |
 | **AI Integration** | LLMs and product workflows with OpenAI, LangChain, and Ollama |
